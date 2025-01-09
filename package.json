@@ -1,7 +1,7 @@
 {
   "name": "hogeee",
   "dependencies": {
-    "nodecg": "file:../../../Users/hoishin/git/nodecg/nodecg/nodecg-2.4.3.tgz"
+    "nodecg": "^0.0.0-pr796.70adbb6a0e0ab1fe869852e2a5defe0cffb1b54e"
   },
   "nodecg": {
     "dashboardPanels": [
