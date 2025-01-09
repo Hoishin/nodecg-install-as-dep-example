@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <button onclick="hoge()">Press Me</button>
+    <script>
+      const rep = nodecg.Replicant("hoge");
+      function hoge() {
+        console.log("hello???");
+        rep.value = (rep.value ?? 0) + 1;
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "name": "hogeee",
+  "dependencies": {
+    "nodecg": "file:../../../Users/hoishin/git/nodecg/nodecg/nodecg-2.4.3.tgz"
+  },
+  "nodecg": {
+    "dashboardPanels": [
+      {
+        "file": "main.html",
+        "workspace": "main",
+        "name": "main",
+        "title": "main"
+      }
+    ],
+    "graphics": [
+      {
+        "file": "hello.html",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  }
+}
