@@ -1,7 +1,10 @@
 {
-  "name": "hogeee",
+  "name": "foo",
   "dependencies": {
-    "nodecg": "^0.0.0-pr796.70adbb6a0e0ab1fe869852e2a5defe0cffb1b54e"
+    "nodecg": "0.0.0-pr796.0826071bc2a1624d838010369af665d2902bf59b"
+  },
+  "devDependencies": {
+    "typescript": "~5.7.3"
   },
   "nodecg": {
     "dashboardPanels": [

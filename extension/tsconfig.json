@@ -1,0 +1,9 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "target": "ES2024",
+    "lib": ["ES2024"],
+    "module": "CommonJS",
+    "moduleResolution": "node10"
+  }
+}
